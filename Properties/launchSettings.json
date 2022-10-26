@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "image_resize_function": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7138",
+      "launchBrowser": false
+    }
+  }
+}
